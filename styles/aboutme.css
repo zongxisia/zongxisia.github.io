@@ -1,0 +1,58 @@
+nav{
+	background-color: #fff;
+}
+body{
+	background: url("../imgs/background.jpg") no-repeat center center fixed;
+	background-size: cover
+}
+.homebutton.navbar-brand{
+	color: black;
+}
+.icons{
+	color: grey;
+	margin: 0 5px;
+}
+.rounded-circle{
+	size: absolute;
+	height: 90%;
+	width: 80%;
+	margin-top: 10px;
+}
+img{
+	max-width: 100%;
+}
+.card-title{
+	margin-top: 10px;
+	margin-bottom: 10px;
+	font-size: 20px;
+	text-decoration: underline;
+}
+.card-text{
+	margin-top:	0px;
+	margin-bottom: 10px;
+	font-size: 16px;
+	font-style: italic;
+}
+.card-title1{
+	margin-top: 10px;
+	margin-bottom: 10px;
+	font-size: 20px;
+	text-decoration: underline;
+	margin-left: 10px;
+}
+.card-text1{
+	margin-top: 5px;
+	font-size: 16px;
+	margin-left: 10px;
+}
+.card{
+	margin-top: 20px;
+	background-color:#ffffff;
+	border:1px solid white;
+	opacity:0.5;
+	filter:alpha(opacity=50);
+}
+.card:hover{
+	opacity: 1.0;
+	filter:	alpha(opacity=100);
+}
