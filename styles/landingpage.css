@@ -28,9 +28,9 @@ h2{
 }
 
 .button{
-	position: absolute;
-	top: 40%;
-	left: 48%;
+	position: relative;
+	top: 150px;
+	left: 45%;
 }
 .mybutton{
 	padding: 15px;
